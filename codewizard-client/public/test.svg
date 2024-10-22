@@ -1,0 +1,41 @@
+<div class="logo-inner" style="background: none;"><!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg38698" viewBox="0 0 1024 768" height="768px" width="1024px" version="1.1">
+  <metadata id="metadata38704">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs id="defs38702"></defs>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient2-logo-ca00b3d3-c142-4d6e-ad43-86b390584f6e">
+    <stop id="stop38679" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop38681" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient3-logo-ca00b3d3-c142-4d6e-ad43-86b390584f6e">
+    <stop id="stop38684" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop38686" stop-opacity="1" stop-color="#cccccc" offset="50%"></stop>
+    <stop id="stop38688" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <g id="logo-group">
+    <image xlink:href="" id="container" x="272" y="144" width="480" height="480" style="display: none;" transform="translate(0 0)"></image>
+    <g id="logo-center" transform="translate(116.6558788888891 0)">
+      <image xlink:href="" id="icon_container" x="0" y="0" style="display: none;"></image>
+      <g id="slogan" style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:'Brandmark Sans 2 Color';font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)"></g>
+      <g id="title" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 2 Color';font-variant-ligatures:normal;text-align:center;text-anchor:middle" transform="translate(0 0)">
+        <g id="path38707" aria-label="C" transform="translate(0 322.24) translate(50 21.71999999999999) scale(1.5555555555555556) translate(-290.861 50.904)"> <path class="c1" d="M102.19629,115.8418c4.89648,0,9.57617-2.44824,12.52832-6.33691l10.36914,4.6084 c-4.75195,7.05664-13.10449,11.59277-23.04199,11.59277c-15.55273,0-27.29004-11.08887-27.29004-25.84961 c0-14.5459,11.7373-25.5625,27.29004-25.5625c10.00879,0,18.43359,4.53613,23.18652,11.59277l-10.44141,4.68066 c-2.95215-3.88867-7.63281-6.33691-12.60059-6.33691c-8.4248,0-16.12988,6.9126-16.12988,15.76953 c0,8.78516,7.77734,15.91406,16.05762,15.91406L102.19629,115.8418z" transform="translate(216.09928 -125.19795)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#ffffff" stroke="#ffffff"></path> </g>
+        <g id="path38709" aria-label="O" transform="translate(0 322.24) translate(134.54424222222227 21.832) scale(1.5555555555555556) translate(-345.21087 50.832)"> <path class="c1" d="M127.29053,99.85571c0,14.76172-11.7373,25.85059-27.29102,25.85059 c-15.55273,0-27.29004-11.08887-27.29004-25.85059c0-14.54492,11.7373-25.56201,27.29004-25.56201 C115.55322,74.2937,127.29053,85.31079,127.29053,99.85571z M100.21631,115.84204c8.28027,0,15.84082-6.98535,15.84082-15.91406 c0-8.85693-7.56055-15.76953-15.84082-15.76953c-8.4248,0-16.12988,6.9126-16.12988,15.76953 c0,8.78516,7.77734,15.91406,16.05762,15.91406H100.21631z" transform="translate(272.5014 -125.1257)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#ffffff" stroke="#ffffff"></path> </g>
+        <g id="path38711" aria-label="D" transform="translate(0 322.24) translate(231.64650000000003 22.503999999999998) scale(1.5555555555555556) translate(-407.63375 50.4)"> <path class="c1" d="M97.47998,74.79785c15.12109,0,25.27441,10.15283,25.27441,25.20215 c0,14.83301-10.58496,25.20215-25.70703,25.20215H77.24561v-50.4043h20.30566H97.47998z M97.83936,115.8418 c7.9209,0,13.46582-6.48047,13.46582-15.76953c0-9.36133-5.76074-15.91357-14.04102-15.91357H88.479v31.61084h9.28906 L97.83936,115.8418z" transform="translate(330.38814 -125.19785)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#ffffff" stroke="#ffffff"></path> </g>
+        <g id="path38713" aria-label="E" transform="translate(0 322.24) translate(314.5527577777778 22.728) scale(1.5555555555555556) translate(-460.93063 50.256)"> <path class="c1" d="M118.82959,115.9856v9.2168H81.17041V74.79761h36.86719v9.2168H92.40381v31.89893L118.82959,115.9856z M99.46045,104.60864l1.2959-9.21729h14.83301v9.21729H99.46045z" transform="translate(379.76022 -125.05361)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#ffffff" stroke="#ffffff"></path> </g>
+        <g id="path38715" aria-label="X" transform="translate(0 322.24) translate(379.476 22.503999999999998) scale(1.5555555555555556) translate(-502.667 50.4)"> <path class="c1" d="M124.01416,125.20215h-13.46484l-10.72949-16.84961l-10.72852,16.84961H75.98584L92.979,99.42383 L77.13818,74.79785h13.10449l9.64941,15.48145l9.64844-15.48145h13.17773l-15.62598,24.0498L124.01416,125.20215z" transform="translate(426.68116 -125.19785)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#ffffff" stroke="#ffffff"></path> </g>
+        <g id="path38717" aria-label="^P" transform="translate(0 322.24) translate(463.5214999999999 22.503999999999998) scale(1.5555555555555556) translate(-556.69625 50.4)"> <path class="c1" d="M119.6582,91.50342c0,3.95996-0.79199,7.20068-2.30469,9.79248c0.14453-1.08008,0.2168-2.44824,0-3.95996 c-0.14355-1.0083-0.35938-4.82471-3.8877-8.35303c-5.1123-5.04053-12.38574-4.82422-13.39355-4.82422h-8.71289v15.40918h8.71289 c5.18457,0,8.35254-1.80029,8.92871-6.26465c3.3125,4.17676,2.16016,11.59326-1.51172,13.89795 c-1.94434,1.22363-3.52832,1.43945-5.1123,1.51172c-0.50488,0-1.00879,0-1.58496,0h-9.28809v16.48926H80.19824v-50.4043h20.59375 c12.09766,0,19.00977,5.40039,19.00977,16.48926L119.6582,91.50342z" transform="translate(476.49801 -125.19785)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#ffffff" stroke="#ffffff"></path> </g>
+        <g id="path38719" aria-label="E" transform="translate(0 322.24) translate(538.115242222222 22.728) scale(1.5555555555555556) translate(-604.64937 50.256)"> <path class="c1" d="M118.82959,115.9856v9.2168H81.17041V74.79761h36.86719v9.2168H92.40381v31.89893L118.82959,115.9856z M99.46045,104.60864l1.2959-9.21729h14.83301v9.21729H99.46045z" transform="translate(523.47896 -125.05361)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#ffffff" stroke="#ffffff"></path> </g>
+        <g id="path38721" aria-label="R" transform="translate(0 322.24) translate(609.5344999999996 22.392000000000003) scale(1.5555555555555556) translate(-650.56175 50.472)"> <path class="c1" d="M120.12549,125.20215h-12.74512l-8.92871-16.48926H91.1792v16.48926H79.87451v-50.4043h20.59375 c12.09668,0,19.00977,5.40088,19.00977,16.48975c0,8.49658-3.60059,13.8252-10.15332,16.12939L120.12549,125.20215z M108.89307,91.71973c0-5.54492-3.24023-7.63281-9.07324-7.63281h-8.71289v15.40918h8.71289 C105.58057,99.49609,108.89307,97.33594,108.89307,91.71973z" transform="translate(570.68724 -125.26985)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#ffffff" stroke="#ffffff"></path> </g>
+        <g id="path38723" aria-label="T" transform="translate(0 322.24) translate(677.8562577777774 22.392000000000003) scale(1.5555555555555556) translate(-694.48288 50.472)"> <path class="c1" d="M120.19775,74.79785v9.50488H79.80225v-9.50488H120.19775z M94.2749,89.99121 c5.25684-4.17627,11.2334,0,11.2334,0v35.21094H94.20361V89.99121H94.2749z" transform="translate(614.68063 -125.26985)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#ffffff" stroke="#ffffff"></path> </g>
+               </g>
+      <image xlink:href="" id="icon" x="0" y="0" style="display: none;"></image>
+    </g>
+  </g>
+</svg>
+</div>

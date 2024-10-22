@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #ffae00;
+  --custom-blue-unkown: #00b2bd;
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+blockquote,
+dl,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+figure,
+p,
+pre {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+img,
+svg,
+video,
+canvas,
+audio,
+iframe,
+embed,
+object {
+  display: block;
+  vertical-align: middle;
+}
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+*,
+::before,
+::after {
+  border-width: 0;
+  border-style: solid;
+  border-color: theme("borderColor.DEFAULT", currentColor);
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit !important;
+  text-decoration: inherit;
+}
+
+/* overiding css */
+
+.code-color-change .code-highlight {
+  background-color: #eaeced !important;
+}
+
+.chat-scroll::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+.chat-scroll::-webkit-scrollbar-track {
+  background: #848484;
+  border-radius: 5px;
+}
+.chat-scroll::-webkit-scrollbar-thumb {
+  background: #161616;
+  border-radius: 5px;
+}
+.chat-scroll::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
